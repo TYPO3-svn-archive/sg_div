@@ -1,0 +1,12 @@
+  # cat=basic/conf/100; type=text; label= Date Format: Default format for Date
+defaultDateFormat = d.m.Y
+  # cat=basic/conf/101; type=text; label= Time Format: Default format for Time
+defaultTimeFormat = H:i
+  # cat=basic/conf/101; type=text; label= Time w/sec Format: Default format for Time with seconds
+defaultTimeSecFormat = H:i:s
+  # cat=basic/conf/102; type=text; label= Date/Time Format: Default format for Date and Time
+defaultDateTimeFormat = d.m.Y H:i
+  # cat=basic/conf/103; type=text; label= Date/Time w/sec Format: Default format for Date and Time with seconds
+defaultDateTimeSecFormat = d.m.Y H:i:s
+  # cat=basic/conf/110; type=text; label= Use gmdate: 0=No, 1=Yes, empty=default means No if Typo3 < 4.2, Yes if >= 4.2
+useGmDate = 

@@ -1,0 +1,9 @@
+
+0.3.0	New: Date-Object
+
+0.1.640	New: function loadTcaAdditions() added
+
+0.1.539	New: filesExists
+
+0.1.510	Move: tx_sglib_div functions move to tx_sgdiv
+
